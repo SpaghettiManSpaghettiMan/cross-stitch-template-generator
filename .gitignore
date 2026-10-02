@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Generated patterns
+cross_stitch_output/
+output/*
+!output/.gitkeep
+
+# Local test/input images
+examples/*
+!examples/.gitkeep
